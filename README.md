@@ -1,6 +1,8 @@
 # Amazon_Vine_Analysis
 Big Data analysis using Google Colab, Pyspark, Postgres/pgAdmin, AWS RDS, Pandas and SQL
 
+![vinelogo](https://github.com/amylio/Amazon_Vine_Analysis/blob/main/Images/vinelogo.jpeg)
+
 ## Overview
 
 The purpose of this project is to analyze Amazon reviews written by members of the paid **Amazon Vine program**, a service that allows manufacturers and publishers to receive reviews of their products. There are companies that will pay a fee to Amazon and provide products to Vine members who are then required to publish a review. In order to determine if there is any bias towards favorable reviews from Vine members vs. non-members, we need to determine the percentage of 5 star ratings to total rating. As part of this exercise, we needed to choose from  50 datasets to extract, transform and load in order to complete our analysis. Throughout this analysis, we use:
